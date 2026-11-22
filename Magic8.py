@@ -1,5 +1,5 @@
 import random
-
+# Magic 8 ball game 
 question = input("What is your question lad? ")
 answer = random.randint(1, 9)
 if answer == 1:
